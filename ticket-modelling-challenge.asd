@@ -2,7 +2,7 @@
   :version "0.1.0"
   :author "Windymelt"
   :license ""
-  :depends-on ()
+  :depends-on (:local-time :dynamic-mixins)
   :components ((:module "src"
                 :components
                 ((:file "main"))))
